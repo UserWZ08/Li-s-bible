@@ -1,0 +1,51 @@
+About
+<H1 align=center>李氏宝典</H1>
+
+<TR><TD colspan=2 align=center>完型字典</TD></TR>
+
+<H2 align=center>作者：李原</H2>
+<H2 align=center>电子版制作者：王喆</H2>
+<P align=center>373708080@qq.com</P>
+
+<P align=center>2024-02-24</P>
+
+look
+<p>1.看起来  2.看  3.表情神情<p>
+</>
+007
+<link rel="stylesheet" type="text/css" href="oald10.css"><script type="text/javascript" src="oald10.js"></script><div id="entryContent" class="oald"><div class="entry" hclass="entry" sum="242" hlength="3" sk="doubleohseven: :0" id="007" htag="section" idm_id="000017467"><div class="top-container"><div class="top-g" id="007_topg_1"><div class="webtop"><h1 class="headword" hclass="headword" htag="h1" id="007_h_1">007</h1> <span class="phonetics"> <div class="phons_br" hclass="phons_br" geo="br" wd="007" htag="div"><a href="sound://007__gb_1.mp3" class="sound audio_play_button pron-uk icon-audio" title="007 pronunciation&#10;                    English" style="cursor: pointer" valign="top"> </a><span class="phon">/ˌdʌbl əʊ ˈsevn/</span></div> <div class="phons_n_am" hclass="phons_n_am" htag="div" geo="n_am" wd="007"><a href="sound://007__us_1.mp3" class="sound audio_play_button pron-us icon-audio" title="007 pronunciation&#10;                    American" style="cursor: pointer" valign="top"> </a><span class="phon">/ˌdʌbl əʊ ˈsevn/</span></div></span></div>                         <a class="responsive_display_inline_on_smartphone link-right" href="#relatedentries">jump to other results</a></div></div><ol class="sense_single" htag="ol"><li class="sense" id="007_sng_1" htag="li" hclass="sense"><span class="sensetop" hclass="sensetop" htag="span"><O10></O10><span class="def" hclass="def" htag="span">the British Secret Service <a class="Ref" href="entry://code-name#code_name_topg_1" title="code name definition"><span class="ndv">code name</span></a> of <a class="Ref" href="entry://james-bond" title="James Bond definition"><span class="ndv">James Bond</span></a> in the novels by <a class="Ref" href="entry://ian-fleming" title="Ian Fleming definition"><span class="ndv">Ian Fleming</span></a> and in the films based on them. According to the stories, numbers beginning ‚00‘ are given to Secret Service <a class="Ref" href="entry://agent#agent_topg_1" title="agents definition"><span class="ndv">agents</span></a> who are 'licensed to kill'.</span><adT><chn><ad>伊恩·弗莱明（Ian Fleming）的小说及其改编的电影中，英国特勤局的代号为詹姆斯·邦德（James Bond）。根据故事，以“ 00”开头的数字提供给“被许可杀人”的特勤局特工。</ad></chn></adT></span></li></ol></div></div>
+</>
+look
+<div id="entryContent" class="oald">
+    <div class="entry" hclass="entry" sum="242" hlength="3" sk="doubleohseven: :0" id="007" htag="section" idm_id="000017467">
+        <div class="top-container">
+            <div class="top-g" id="007_topg_1">
+                <div class="webtop">
+                    <h1 class="headword" hclass="headword" htag="h1" id="007_h_1">look</h1> 
+                </div>                         
+                <a class="responsive_display_inline_on_smartphone link-right" href="#relatedentries">jump to other results</a>
+            </div>
+        </div>
+        <ol class="sense_single" htag="ol">
+            <li class="sense" id="007_sng_1" htag="li" hclass="sense">
+                <span class="sensetop" hclass="sensetop" htag="span">
+                    <O10></O10>
+                    <span class="def" hclass="def" htag="span">看起来</span>
+                </span>
+            </li>
+            <li class="sense" id="007_sng_2" htag="li" hclass="sense">
+                <span class="sensetop" hclass="sensetop" htag="span">
+                    <O10></O10>
+                    <span class="def" hclass="def" htag="span">看</span>
+                </span>
+            </li>
+            <li class="sense" id="007_sng_3" htag="li" hclass="sense">
+                <span class="sensetop" hclass="sensetop" htag="span">
+                    <O10></O10>
+                    <span class="def" hclass="def" htag="span">表情、神情</span>
+                </span>
+            </li>
+        </ol>
+    </div>
+</div>
+</>
